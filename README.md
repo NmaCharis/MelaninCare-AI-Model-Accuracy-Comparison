@@ -69,7 +69,6 @@ A Power BI dashboard was created to visualise model performance and provide anal
 - Insight-driven interpretation  
 
 ![Dashboard](dashboard.png)
-![Dashboard](dashboard.pbix)
 
 
 ## Key Insight
